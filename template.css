@@ -54,7 +54,7 @@ ul.dots li:hover{
 /* start choose us  */
 .why-choose-us{
     padding: 100px 0 0 0 ;
-    height: 80vh;
+    height: auto;
     background-image: url(img/us-bg.jpg);
     background-attachment: fixed ;
     background-size: cover;
@@ -68,7 +68,7 @@ ul.dots li:hover{
 /* start healthy section  */
 .healthy-section{
     padding: 50px 0 0 0 ;
-    height: 80vh;
+    height: auto;
     background-image: url(img/healthy-bg.jpg);
     background-attachment: fixed ;
     background-size: cover;
